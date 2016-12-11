@@ -2525,7 +2525,11 @@ shortcodes page css
   margin-left: 15px;
 }
 
+/* My own code */
 
+#shop {
+	margin-left: 150px;
+}
 
 
 
